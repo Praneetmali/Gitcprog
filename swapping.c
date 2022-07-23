@@ -10,3 +10,4 @@ main()
 	b=temp;
 	printf("\n after swapping a=%d and b=%d",a,b);
 }
+// swapping
